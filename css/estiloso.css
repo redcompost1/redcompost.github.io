@@ -1,0 +1,11 @@
+#hero {
+    background-image: url('../img/bg-1.png');
+    background-size: cover;
+    padding-top: 90px;
+    min-height: 700px;
+    color: white;
+}
+
+.team, footer {
+    background:rgb(17, 7, 57);
+  }
